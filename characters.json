@@ -5,6 +5,9 @@
     "name": "testingjoe",
     "costume": "testingjoe",
     "animated": false,
-    "animationframes": []
+    "animationframes": [],
+    "walkspeed": 7.4,
+    "jumppower": 4,
+    "slide": 0.6
   }
 ]
