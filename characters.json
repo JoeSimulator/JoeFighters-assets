@@ -1,1 +1,10 @@
-{}
+[
+  {
+    "incode": true,
+    "pickable": false,
+    "name": "testingjoe",
+    "costume": "testingjoe",
+    "animated": false,
+    "animationframes": []
+  }
+]
